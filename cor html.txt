@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate of Recognition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table class="wholetable">
+        <!--PSU LOGO AND TITLE-->
+        <tr>
+            <td>
+                <div class="imagetext">
+                    <img src="psulogo.jpg" alt="PSU Logo" class="logo">
+                    <div class="textimage">
+                      <p><br><br><br>Republic of the Philippines <br><b class="psutext">Palawan State University</b><br>
+                    Puerto Princesa City</p>
+                    </div>
+                </div>
+           
+                <div class="clear"></div>
+
+                <!--CERTIFICATE OF REGESTRATION-->
+                <div class="certtitle"> 
+                    <h1>CERTIFICATE OF REGISTRATION</h1>
+                </div>
+                <div class="reginfo">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration No: <span class="regnumber">000301643</span>
+                </div>
+
+        <!--STUDENT GENERAL INFO-->
+        <table class=wholetabletwo>
+            <tr>
+                <td>
+        <table class="studentgeneralinfo">
+            <tr>
+                <th >
+                    STUDENT GENERAL INFORMATION  
+                </th>
+            </tr>
+        </table>
+
+        <table class="studinfo">
+            <tr> 
+                <td>Student No: 2021-8-0090 </td>
+                <td>College: <span class="style">College of Sciences</span></td>
+                <td>School Year: 2023-2024 FIRST SEMESTER</td>
+            </tr>
+            <tr>
+                <td>Name: EVEDIENTE, MA. DAPHNEE<br> BAGUYO</td>
+                <td>Program: <span class="style">Bachelor of Science in Information Technology</span><br> Major: </td>
+                <td>Curriculum: <span class="style">08-BSIT-2019</span><br> Scholarship: </td>
+            </tr>
+            <tr>
+                <td>Gender: <span class="style">Female</span></td>
+                <td>Age: <span class="style">23</span></td>
+                <td>Year Level: 3rd year</td>
+            </tr>
+        </table>
+
+        <!--SUBJECT INFO-->
+        <table class="subjectinfo">
+            <tr>  
+                <th>CODE</th>
+                <th>SUBJECT TITLE</th>
+                <th>U<br>Lec</th>
+                <th>N               I<br>Lab</th>
+                <th>T<br>Credits</th>
+                <th>SECTION</th>
+                <th>SCHEDULE/ROOM</th>
+                <th>FACULTY SIGNATURE</th>
+            </tr>
+            <tr>
+                <td>IT 8/L</td>
+                <td>Advance Database Systems</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>M 07:00 AM - 09:00 AM/<br>Th 07:00 AM - 10:00 AM/MTC2</td>
+                <td class="underlinetext">Lopez, Menchie L.</td>
+            </tr>
+            <tr>
+                <td>IT 9/L</td>
+                <td>Network Technologies 2</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>T 01:00 PM - 04:00 PM/NIT 4<br>F 01:00 PM - 03:00 PM/CL 3</td>
+                <td class="underlinetext">Baguio, Kim C.</td>
+            </tr>
+            <tr>
+                <td>IT 10/L</td>
+                <td>Information Assurance and Security 1</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>M 10:00 AM - 01:00 PM/IT 101<br>Th 11:00 AM - 01:00 PM/NB 10</td>
+                <td class="underlinetext">Caduada, Larry N.</td>
+            </tr>
+            <tr>
+                <td>IT 8/L</td>
+                <td>Web Systems and Technologies</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>W 10:00 AM - 01:00 PM/NIT 1<br>S 11:00 AM - 1:00 PM</td>
+                <td class="underlinetext">Dosado, Roy Cyril D.</td>
+            </tr>
+            <tr>
+                <td>IT 8/L</td>
+                <td>Multimedia Systems</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>Th 1:00PM - 4:00 PM/IT 101<br>M 1:00 PM - 3:00 PM/NB 10</td>
+                <td class="underlinetext">Buliag, Rene V.</td>
+            </tr>
+            <tr>
+                <td>IT 8/L</td>
+                <td>Ethics</td>
+                <td>3.0</td>
+                <td>0.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>TF 11:30 AM - 01:00 PM/NB 11</td>
+                <td class="underlinetext"></td>
+            </tr>
+            <tr>
+                <td>IT 8/L</td>
+                <td>IT Elective 3</td>
+                <td>2.0</td>
+                <td>1.0</td>
+                <td>3.0</td>
+                <td>BSIT 3-B3</td>
+                <td>W 07:00 AM - 09:00 AM/<br>S 07:00 AM - 10:00AM/IT 101</td>
+                <td class="underlinetext">Dizon, Demy R.</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td><b>___</b></td>
+                <td><b>___</b></td>
+                <td><b>___</b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="totalunits"><b>Total Unit(s)</b></td>
+                <td><b>15.0</b></td>
+                <td><b>6.0</b></td>
+                <td><b>21.0</b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <!--NOTE TABLE-->
+        <p class="notetable">
+            <em>Note: Subject marked with *** is Special Subject.</em>
+        </p>
+
+        <!--ASSESSED FEES TABLE-->
+        <div class=container> 
+            <table class="assfees">
+                <tr class="titlefees">
+                    <td colspan="2"><b>ASSESSED FEES</b></td>
+                </tr>
+                <tr>
+                    <td>Tuition Fee (21@200)</td>
+                    <td class="textright">4,200.00</td>
+                </tr>
+                <tr>
+                    <td>Examination Materials Fee (21@3)</td>
+                    <td class="textright">63.00</td> 
+                </tr>
+                <tr>
+                    <td>Facilities Enhancement Fee</td>
+                    <td class="textright">1,000</td> 
+                </tr>
+                <tr>
+                    <td>Guidance Fee</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>SGO-Insurance Fee</td>
+                    <td class="textright">50.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - Cultural Fee</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - Library Fees</td>
+                    <td class="textright">200.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - Athletics</td>
+                    <td class="textright">300.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - Medical & Dental Fees</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - School Paper</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>Audio Visual Media Center</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>Student Government Organization Membership Fee</td>
+                    <td class="textright">140.00</td>
+                </tr>
+                <tr>
+                    <td>Security Fee</td>
+                    <td class="textright">300.00</td>
+                </tr>
+                <tr>
+                    <td>Misc - Registration Fee</td>
+                    <td class="textright">100.00</td>
+                </tr>
+                <tr>
+                    <td>Computer Laboratory Fees (IT 8/L (500); IT 9/L (500)): IT</td>
+                    <td class="textright">3,000.00</td>
+                </tr>
+                <tr>
+                    <td>Internet Fee</td>
+                    <td class="textright">400.00</td>
+                </tr>
+
+                <tr class="paymentamount">
+                    <td colspan="2"><b>Total Assessment:</b> <span><b>Php 10,253.00</b></span></td>
+                </tr>
+                <tr class="paymentamount">
+                    <td colspan="2"><b>Total Payment:</b> <span><b>0.00</b></span></td>
+                </tr>
+                <tr class="paymentamount">
+                    <td colspan="2"><b>Outstanding Balance:</b> <span><b>Php 10,253.00</b></span></td>
+                </tr>  
+            </table>
+         
+        <!--BESIDE TABLE TEXT-->
+            <div class="text">
+                <p><b>RULES ON REFUND <br><br><br></b></p>
+                <p class="text2"><em>1. Full refund of tuition fee - Before the start of classes.</em></p>
+                <p class="text2"><em>2. 80% refund of tuition fee - within 1 week from the start of classes.</em></p>
+                <p class="text2"><em>3. 50% refund - within 2 weeks from the start of classes.</em></p>
+                <p class="text2"><em>4. No refund - after the 2nd week of classes.</em><br><br><br><br><br> <br><br><br><br><br></p>
+                <p class="text3"><b>Official Receipt:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__________________________________</b></p>
+                <p class="text3"><b>Payment/Validation Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u> 10-Aug-2023&nbsp; 4:09pm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b></p>
+                <p class="text4"><b>APPROVED BY: </b></p>
+                <img src="sign.png" alt="signature" class="sign">
+                <p class="text5">CHERYLL ANNE C. DATOR, ph.D</p>
+                <p class="text6"> University Registrar</p>
+            </div>
+        </div>
+
+        <!--PAYMENT TABLE-->
+        <table class="paydatetable">
+            <tr class="paydatefees">
+                <td colspan="3"><b>SCHEDULE OF PAYMENT</b></td> 
+            </tr>
+            <tr class="paydate">
+                <td>1st Payment / Due Date</td>
+                <td>2nd Payment / Due Date</td>
+                <td>3rd Payment / Due Date</td>
+            </tr>
+            <tr class="paydate">
+                <td>3,890.00 07/12/2013</td>
+                <td>3,283.00 09/10/2023</td>
+                <td>3,080 12/02/2023</td>
+            </tr>   
+        </table>
+        
+        <!--DATE PRINTED-->
+        <p class="printdate">
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            Date Printed: August 10, 2023 4:32:21pm
+        </p>
+        <!--footer-->
+        <footer>
+            <p><b>KEEP THIS CERTIFICATE. YOU WILL BE REQUIRED TO PRESENT THIS IN ALL YOUR DEALINGS WITH THE COLLEGE.</b></p>
+        </footer> 
+        </table>
+    </table>
+</body>
+</html>
+

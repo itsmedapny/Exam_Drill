@@ -1,0 +1,365 @@
+/*WHOLETABLE STYLE*/
+.wholetable {
+    border-collapse: 1em;
+    border-color: black;
+    border: 1px solid black;
+    background-color: white;
+    width: 100%;
+}
+
+.wholetable td {
+    padding: 20px; 
+}
+
+/*SECOND WHOLE TABLE STYLE*/
+.wholetabletwo {
+    border-collapse: collapse;
+    border-color: black;
+    border: 1px solid black;
+    background-color:  white;
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+
+.wholetabletwo td {
+    padding: 0;
+}
+
+/*PSU LOGO AND TITLE STYLE*/
+.imagetext {
+    display: flex;
+    align-items: center;
+    max-width: 100%; 
+}
+  
+.textimage {
+    margin-left: 20px; 
+    font-family: 'Arial';
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}
+
+.logo {
+    max-width: 150px; 
+    margin-top: 50px;
+    margin-left: 650px; 
+    display: block; 
+}
+
+.psutext {
+    font-size: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/*CERTIFICATE TITLE STYLE*/
+.certtitle {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+.reginfo {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.regnumber {
+    color: darkred;
+}
+
+
+/*STUDENT GENERAL INFO STYLE*/
+.studentgeneralinfo
+{
+    border-collapse: collapse;
+    border-color: black;
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:  #d7d1ff;
+    width: 100%;
+    padding: 0;
+    
+}
+
+.studentgeneralinfo th
+{
+    border-collapse: collapse;
+    border-color: black;
+    border: none;
+    background-color:  #d7d1ff;
+    width: 100%;
+    padding: 8px;
+    font-weight: bold; 
+    font-family: Arial; 
+    font-size: 16px;
+    text-align: center; 
+    color:black;
+    height: 10px; 
+}
+
+/*STUD INFO STYLE NAME, COURSE, PROGRAM ETC*/
+.studinfo {
+    border-collapse: separate;
+    border: none;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.studinfo td {
+    padding: 5px 10px; 
+    font-size: 14px; 
+    font-weight: bold;
+}
+
+.style {
+    font-weight: normal;
+}
+
+
+/*SUBJECT INFO STYLE*/ 
+.subjectinfo {
+    border-collapse: collapse; 
+    border-top: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.subjectinfo th {
+    background-color:  #d7d1ff;
+    border-bottom: 1px solid black;
+    padding: 8px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.subjectinfo td {
+    background-color: white;
+    padding: 8px;
+    color: black;
+    text-align: left;
+    font-size: small;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+.underlinetext {
+    text-decoration: underline;
+}
+
+.totalunits {
+    float: right;
+    font-size: 13px;
+}
+
+
+/*NOTE STYLE*/
+.notetable {
+    padding: 8px;
+    margin-left: 10px;
+    margin-bottom: 25px;
+    color: none;
+    text-align: left;
+    font-size: 13px;
+    font-family: Arial; 
+}
+
+
+/*ASSESS TABLE STYLE*/
+.container {
+    display: flex;
+}
+.assfees {
+    border-collapse: collapse;
+    width: 45%; 
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-left: 30px; 
+}
+
+.assfees td {
+    border: none;
+    padding: 8px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.titlefees td {
+    background-color:  #d7d1ff;
+    color: black;
+    border: 1px solid black;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 16px;
+    letter-spacing: 8px;
+}
+
+.textright {
+    text-align: right;
+    padding-right: 8px; 
+}
+
+/*PAYMENT TABLE STYLE*/ 
+.paymentamount {
+    border-collapse: collapse;
+    border: 1px solid #000;
+    background-color: white;
+    width: 45%;
+    table-layout: fixed;
+    margin-left: 30px;
+    max-height: 30%;
+    padding: 0;
+    text-align: center;
+    font-family: Arial;
+    color: black;
+    font-size: 14px; 
+    text-align: left;
+}
+
+.paymentamount td {
+    text-align: center;
+}
+
+.paymentamount span {
+    float: right;
+}
+
+/*BESIDE TABLE STYLE*/
+.text {
+    flex: 1; 
+    margin-right: 20px; 
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.text2 {
+    margin: 5px 150px; 
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+
+.text3 {
+    margin: 50px 150px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px; 
+    
+}
+
+.text4 {
+    margin: 70px 250px; 
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.sign {
+    display: block;
+    margin-left: 400px;
+}
+
+.text5 {
+    margin-left: 250px; 
+    margin-top: none;
+    margin-bottom: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.text6 {
+    margin-left: 250px; 
+    padding-top: 1;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+/*PAYMENT DATE STYLE*/
+.paydatetable {
+    border-collapse: collapse;
+    width: 45%;
+    background-color: white;
+    font-family: Arial;
+    color: black;
+    table-layout: fixed;
+    font-size: 13px; 
+    border: 1px solid black;
+    margin-left: 30px;
+    max-height: 30%;
+    text-align: center;
+}
+
+.paydatefees td {
+    border-collapse: collapse;
+    border-color: black;
+    border: 1px solid black;
+    border-top: none;
+    background-color:  #d7d1ff;
+    padding: 0;
+    text-align: center; 
+    font-weight: bold; 
+    font-family: Arial; 
+    font-size: 16px;
+    color:black;
+    letter-spacing: 5px;
+}
+.paydate td {
+    width: 45%;
+    border: 1px solid #000;
+    padding: 5px; 
+}
+
+/*DATE PRINTER STYLE*/ 
+.printdate {
+    font-size: 12px;
+    font-weight: normal;
+    text-align: right;
+    margin: 0; 
+    line-height: 2;
+}
+
+/*FOOTER STYLE*/
+footer {
+    text-align: center;
+    background-color:  #d7d1ff;
+    color: black;
+    border-top: 1px solid black;
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    font-family: Arial;
+    font-size: small;
+    margin-top: 0; 
+    padding-top: 0; 
+  }
+
