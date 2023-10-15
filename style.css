@@ -332,3 +332,27 @@
     border: 1px solid #000;
     padding: 5px; 
 } 
+
+/*DATE PRINTER STYLE*/ 
+.printdate {
+    font-size: 12px;
+    font-weight: normal;
+    text-align: right;
+    margin: 0; 
+    line-height: 2;
+}
+
+/*FOOTER STYLE*/
+footer {
+    text-align: center;
+    background-color:  #d7d1ff;
+    color: black;
+    border-top: 1px solid black;
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    font-family: Arial;
+    font-size: small;
+    margin-top: 0; 
+    padding-top: 0; 
+  }
