@@ -239,3 +239,61 @@
 .paymentamount span {
     float: right;
 }
+
+/*BESIDE TABLE STYLE*/
+.text {
+    flex: 1; 
+    margin-right: 20px; 
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.text2 {
+    margin: 5px 150px; 
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+
+.text3 {
+    margin: 50px 150px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px; 
+    
+}
+
+.text4 {
+    margin: 70px 250px; 
+    text-align: left;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.sign {
+    display: block;
+    margin-left: 400px;
+}
+
+.text5 {
+    margin-left: 250px; 
+    margin-top: none;
+    margin-bottom: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.text6 {
+    margin-left: 250px; 
+    padding-top: 1;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+}
