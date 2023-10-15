@@ -122,3 +122,47 @@
 .style {
     font-weight: normal;
 }
+
+/*SUBJECT INFO STYLE*/ 
+.subjectinfo {
+    border-collapse: collapse; 
+    border-top: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.subjectinfo th {
+    background-color:  #d7d1ff;
+    border-bottom: 1px solid black;
+    padding: 8px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.subjectinfo td {
+    background-color: white;
+    padding: 8px;
+    color: black;
+    text-align: left;
+    font-size: small;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+.underlinetext {
+    text-decoration: underline;
+}
+
+.totalunits {
+    float: right;
+    font-size: 13px;
+}
+
