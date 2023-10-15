@@ -36,3 +36,26 @@
 .psutext {
     font-size: 20px;
 }
+
+.clear {
+    clear: both;
+}
+
+/*CERTIFICATE TITLE STYLE*/
+.certtitle {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+.reginfo {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.regnumber {
+    color: darkred;
+}
