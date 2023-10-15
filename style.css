@@ -104,3 +104,21 @@
     color:black;
     height: 10px; 
 }
+
+/*STUD INFO STYLE NAME, COURSE, PROGRAM ETC*/
+.studinfo {
+    border-collapse: separate;
+    border: none;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.studinfo td {
+    padding: 5px 10px; 
+    font-size: 14px; 
+    font-weight: bold;
+}
+
+.style {
+    font-weight: normal;
+}
