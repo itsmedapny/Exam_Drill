@@ -59,3 +59,48 @@
 .regnumber {
     color: darkred;
 }
+
+/*SECOND WHOLE TABLE STYLE*/
+.wholetabletwo {
+    border-collapse: collapse;
+    border-color: black;
+    border: 1px solid black;
+    background-color:  white;
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+
+.wholetabletwo td {
+    padding: 0;
+}
+
+/*STUDENT GENERAL INFO STYLE*/
+.studentgeneralinfo
+{
+    border-collapse: collapse;
+    border-color: black;
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:  #d7d1ff;
+    width: 100%;
+    padding: 0;
+    
+}
+
+.studentgeneralinfo th
+{
+    border-collapse: collapse;
+    border-color: black;
+    border: none;
+    background-color:  #d7d1ff;
+    width: 100%;
+    padding: 8px;
+    font-weight: bold; 
+    font-family: Arial; 
+    font-size: 16px;
+    text-align: center; 
+    color:black;
+    height: 10px; 
+}
